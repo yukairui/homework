@@ -9,3 +9,15 @@ by each other, sometimes equilibrium strategies on these three aspects and even 
 determine the behavior of enterprises, So for the quality assurance of SQA work should be based on the enterprise's strategic target.
 
 According to the survey of modern software engineering for many failure of the project, found that management is the main cause of project failure. The importance of this fact is that "to ensure that the project does not fail, we should pay more attention to management", pay attention to this fact does not explain another problem "good management can ensure the success of the project". A lot of people based on a rough logic, this conclusion from the fact that the backstepping, the logic is wrong, the wrong form more wrong, this is deep understanding in the SQA.
+
+Rate For Students
+
+张亚华 (13126173) A
+
+赵光伟 (13126175) A
+
+臧凯源 (13126167) A
+
+张亚宾 (13126172) A
+
+孙百仪 (13126128) A
