@@ -20,7 +20,17 @@ difficult as to be a senior software engineer and the market is very lack of sen
    It's promising to be a QA engineer.
    It's another way of our career.
 
- 
+   Rate For Students
+
+   张亚华 (13126173) A
+
+   赵光伟 (13126175) A
+
+   臧凯源 (13126167) A
+
+   张亚宾 (13126172) A
+
+   孙百仪 (13126128) A
    
                                                                              
                                                                                13126164  于铠瑞
