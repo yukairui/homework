@@ -1,6 +1,5 @@
 #Basic concepts, definitions & terminology for Input Domain partitioning & testing
 
-
 Partitioning of the input domain is  an activity that seeks to group those inputs that will cause certain failures 
 to be experienced. If one can show that inputs in a partition have a higher probability of either causing the 
 system to fail or to succeed, then the statistical reliability analysis can be performed with fewer number of tests
@@ -16,3 +15,17 @@ to internal state variables.
 Several parameters that influence the probability of finding defects are investigated with a computer simulation: the size
 of a test case, the type of a defect, the number of partitions, and the ratio of reading and writing accesses to state 
 variables
+   
+Rate For Students
+
+张亚华 (13126173) A
+
+赵光伟 (13126175) A
+
+臧凯源 (13126167) A
+
+张亚宾 (13126172) A
+
+孙百仪 (13126128) A
+   
+                                                                                13126164 于铠瑞
